@@ -1,0 +1,9 @@
+Same objective as that during the meta_training:
+MSELoss training: 0.9527
+MSELoss test: 1.0254
+Training time taken: 4.51 seconds
+
+Mid price objective:
+MSELoss training: 0.9527
+MSELoss test: 1.0258
+Training time taken: 5.14 seconds
