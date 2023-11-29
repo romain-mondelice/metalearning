@@ -53,6 +53,7 @@ The objective is to learn of the base model learn.
 - Challenges in the project included managing the complexity of dual-model training and ensuring the correct application of predicted gradients.
 
 ## Future Work
+- Feature engineering
 - Further refinement of the base model's architecture (try more complexe archi / more simple).
 - Further refinement of the meta model's architecture (try more complexe archi / more simple).
 - Finetuning of hyperparameters (learning rates & num_epoch in the first place).
