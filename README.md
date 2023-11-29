@@ -44,7 +44,7 @@ The objective is to learn of the base model learn.
   - Training Time: 4.51 seconds
 - **Mid Price Objective (predict the 12 next mid price)**:
   - Training MSE Loss: 0.9527
-  - Test MSE Loss: 1.0258
+  - Test MSE Loss: 1.0258 (Better loss, good sign of the capability to reduce overfitting)
   - Training Time: 5.14 seconds
 
 ## Discussion
